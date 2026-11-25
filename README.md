@@ -1,2 +1,2 @@
 # sioma-ian
-Siomai-an ni Sir Ian
+Sioma-Ian ni Sir Ian
